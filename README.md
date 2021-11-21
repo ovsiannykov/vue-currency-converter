@@ -1,7 +1,11 @@
 # vue-currency-converter
+
 Test task on View
+
 Demo:  http://currency.ovsiannykov.space/
+
 My Telegram: @mikie_mac
+
 My Linkedin: https://www.linkedin.com/in/mikie-mac/
 
 Тестовое задание
